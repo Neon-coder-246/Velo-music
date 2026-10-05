@@ -1,0 +1,46 @@
+Velo Music — CarPlay-Style Car Music & Radio Player
+Velo Music is a sleek, modern, dark-themed music and radio player designed specifically for car touchscreens, Android head units, and tablets. Evolving from Velo Radio, it combines local media playback (USB drives, internal storage, and SD cards) with live online radio streaming (powered by the Radio Browser API, featuring RMF FM, BBC Radio 1, Heart, and more) into a seamless, distraction-free car infotainment dashboard.
+🌟 Key Features
+🚗 CarPlay-Inspired Car Dashboard UI
+•
+Permanent Side Navigation: Quick, distraction-free access to all sections (Now Playing, Local Music, Radio, Favourites, Queue, Playlists, Albums, Artists, Settings) via a sleek sidebar.
+•
+Adaptive Screen Sizing: Automatically adjusts layouts for any display size, shifting between portrait stacking and wide-screen side-by-side layouts on larger car head units or tablets.
+•
+Huge Touch-Friendly Controls: Large playback buttons, thick progress sliders, and high-contrast dark aesthetics designed for effortless touch control while driving.
+💾 Local Music & Folder Browsing
+•
+Automatic USB & SD Card Detection: Automatically scans and indexes local music files stored on USB drives, internal storage, and SD cards.
+•
+Folder Accordion View: Browse your music sorted by folder structure. Tap any folder to open an interactive dropdown containing all songs within that folder.
+•
+Library Management: Full support for browsing by Songs, Folders, Artists, Albums, Playlists, Favourites, and instant Search.
+📻 Live Online Radio
+•
+Radio Browser API Integration: Access thousands of live online radio stations worldwide.
+•
+Featured Stations & Genres: Browse by top voted stations or filter by genres (Pop, Rock, Dance, News, Jazz, Chill, Classical, Country).
+•
+Specialized Streams: Includes optimized direct streams for popular stations like RMF FM, Heart UK, BBC Radio 1, Capital FM, Smooth Radio, and Classic FM.
+⭐ Smart Favourites & Listen Tracking
+•
+Unified Favourites Hub: Combine your favorite local tracks and favorite radio stations into one central Favourites screen.
+•
+Most Listened Sorting: Automatically tracks play counts and sorts your favourites from most listened to least listened, displaying play frequency (• Played X times).
+🔀 Advanced Playback Modes
+•
+Normal & Shuffle: Standard linear playback or randomized queue shuffling.
+•
+Party Shuffle Mode: An optional, chaotic mode that continuously picks random tracks from your entire library.
+•
+Playback Resume: Automatically saves your last played track, queue, and exact playback position on exit, and auto-resumes playback the moment you start the app.
+🌐 Multilingual System Language Support
+•
+Fully adapts to your device's system language settings (with built-in support for English, Polish / Polski, Spanish, German, French, Italian, Portuguese, Russian, Japanese, Chinese, and more).
+🔊 Android Media & Voice Assistant Integration
+•
+Background Playback & Notifications: Full Media3 ExoPlayer and MediaSessionService implementation with rich notification controls.
+•
+Steering Wheel Controls: Responds natively to steering wheel media keys (Play/Pause, Next, Previous).
+•
+Voice Assistants & Widgets: Compatible with Android voice assistants ("Hey Google, pause") and standard Android media widgets/Velo Car Launcher music widgets.
